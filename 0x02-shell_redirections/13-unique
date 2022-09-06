@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -print | sort |uniq
